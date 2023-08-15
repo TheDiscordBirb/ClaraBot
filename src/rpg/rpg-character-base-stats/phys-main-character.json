@@ -1,0 +1,133 @@
+{
+    "lvl": "1",
+    "ascention": "0",
+    "ascention-stat": 
+    {
+        "hp": "65",
+        "atk": "34",
+        "def": "25"
+    },
+    "base-stats":
+    {
+        "hp": "163",
+        "atk": "84",
+        "def": "62",
+        "spd": "100",
+
+        "crit-rate": "5",
+        "crit-damage": "50",
+        "break-effect": "0",
+        "outgoing-healing-boost": "0",
+        "max-energy": "120",
+        "energy-restoration-rate": "100",
+        "effective-hit-rate": "0",
+        "effect-res": "0",
+
+        "current-energy": "0"
+    },
+    "lvl-up-stats":
+    {
+        "hp": "",
+        "atk": "",
+        "def": ""
+    },
+    "light-cone":
+    {
+        "name": "",
+        "lvl": "",
+        "ascention": "",
+        "superimposition": "",
+        "_id": ""
+    },
+    "eiodons":
+    {
+        "a-falling-star": false,
+        "an-unwilling-host": false,
+        "a-leading-whisper": false,
+        "a-destructing-glance": false,
+        "a-surviving-hope": false,
+        "a-trailblazing-will": false
+    },
+    "traces":
+    {
+        "ultimate":
+        {
+            "lvl": "1"
+        },
+        "technique":
+        {
+            "lvl": "1"
+        },
+        "skill":
+        {
+            "lvl": "1",
+            "bonus-energy": ""
+        },
+        "basic-attack":
+        {
+            "lvl": "1",
+            "bonus-energy": ""
+        },
+        "talent":
+        {
+            "lvl": "1"
+        },
+        "bonus-abilities":
+        {
+            "perseverance":
+            {
+                "lvl": "0"
+            },
+            "ready-for-battle":
+            {
+                "lvl": "0"
+            },
+            "fighting-will":
+            {
+                "lvl": "0"
+            }
+        },
+        "stat-bonuses":
+        {
+            "hp":
+            {
+                "amount": "0"
+            },
+            "atk":
+            {
+                "amount": "0"
+            },
+            "def":
+            {
+                "amount": "0"
+            }
+        }
+    },
+    "relics":
+    {
+        "head":
+        {
+
+        },
+        "hands":
+        {
+
+        },
+        "body":
+        {
+
+        },
+        "feet":
+        {
+
+        },
+        "planar-sphere":
+        {
+
+        },
+        "link-rope":
+        {
+
+        }
+    }
+}
